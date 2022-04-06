@@ -1,0 +1,37 @@
+.product-details{
+    display: flex;
+    width: 90%;
+    height: 400px;
+    margin: auto;
+    text-align: left;
+}
+.product-details .contant{
+    width: 60%;
+    margin: auto;
+}
+.product-details .photo{
+    width: 30%;
+    margin: auto;
+}
+.product-details .photo img{
+    width: 300px;
+    border: 1px solid #e0e0e0;
+    border-radius: 25px;
+}
+.product-details .watch-btn{
+    width: 500px;
+    display: flex;
+    justify-content: center;
+}
+.product-details a{
+    text-decoration: none;
+    padding: 16px 45px;
+    font-size: 17px;
+    color: #fff;
+    border: none;
+    background-color: #f85506;
+    border-radius: 15px;
+    text-align: center;
+    font-weight: 500;
+    
+}

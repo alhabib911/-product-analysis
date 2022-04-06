@@ -1,0 +1,33 @@
+.home-container{
+    width: 90%;
+    margin: auto;
+}
+.home-container .customer-review{
+    width: 350px;
+    height: 400px;
+    background-color: aliceblue;
+    border-radius: 25px;
+}
+.customer-review .photo{
+    width: auto;
+    height: 100px;
+    padding-top: 15px;
+}
+.customer-review .rating-sign{
+    display: flex;
+    align-items: center;
+}
+.customer-review .star img{
+    width: 18px;
+}
+.customer-review .author-name{
+    text-align: center;
+    margin: 0%;
+}
+.customer-review .author-name small{
+    color: #f85506;
+}
+.customer-review p{
+    text-align: left;
+    padding: 10px;
+}

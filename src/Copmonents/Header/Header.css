@@ -1,0 +1,10 @@
+nav a{
+    text-decoration: none;
+    margin: 15px;
+    color: #000;
+}
+.company-name h1{
+    color: #f85506;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}

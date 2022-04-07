@@ -7,7 +7,8 @@ import Review from '../Review/Review';
 
 
 const Home = () => {
-    const [review] = useReview();
+    const [review, setReview] = useReview();
+    
     const [product] = useProduct()
     return (
         <div className='home-container'>

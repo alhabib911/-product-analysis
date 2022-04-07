@@ -19,5 +19,9 @@ Abdullah Al Habib
 
 ### Project Details
 <ul>
-    <li>habib</li>
+    <li>In home page get product short live review & customer review</li>
+    <li>In review file get customer review only</li>
+    <li>In dashboard page get sell & revenue chart</li>
+    <li>In blogs page have some questions answer</li>
+
 </ul>

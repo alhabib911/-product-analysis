@@ -42,7 +42,9 @@ const Dashboard = () => {
         }
     ]
     return (
-        <div className='chart'>
+        <div className="dashboard">
+            <h2>Report</h2>
+            <div className='chart'>
             <div className='sell-chart'>
                 <LineChart width={400} height={500} data={data}>
                     <Line type="monotone" dataKey="sell" stroke="#8884d8"></Line>
@@ -50,15 +52,18 @@ const Dashboard = () => {
                     <YAxis dataKey="sell"></YAxis>
                     <Tooltip></Tooltip>
                 </LineChart>
+                <h4>Sells Report</h4>
             </div>
             <div className='revenue-chart'>
-                <BarChart width={400} height={500} data={data}>
+                <BarChart width={600} height={500} data={data}>
                     <XAxis dataKey={"month"}></XAxis>
                     <YAxis dataKey={"revenue"}></YAxis>
                     <CartesianGrid stroke="#ccc" strokeDasharray="5 5" />
                     <Bar dataKey="revenue" fill="#8884d8" barSize={30} />
                 </BarChart>
+                <h4>Revenue Report</h4>
             </div>
+        </div>
         </div>
 
     );

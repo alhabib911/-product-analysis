@@ -7,6 +7,7 @@ import Reviews from './Copmonents/Reviews/Reviews';
 import Dashboard from './Copmonents/Dashboard/Dashboard';
 import Blogs from './Copmonents/Blogs/Blogs';
 import NotFound from './Copmonents/NotFound/NotFound';
+import Footer from './Copmonents/Footer/Footer';
 
 
 
@@ -24,6 +25,7 @@ function App() {
             <Route path='/blogs' element= {<Blogs></Blogs>}></Route>
             <Route path='*' element={<NotFound></NotFound>}></Route>
         </Routes>
+        <Footer></Footer>
         
     </div>
   );

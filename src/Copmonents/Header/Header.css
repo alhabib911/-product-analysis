@@ -1,10 +1,16 @@
+.company-name h1{
+    color: #f85506;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: 600;
+}
 nav a{
     text-decoration: none;
     margin: 15px;
     color: #000;
 }
-.company-name h1{
+nav a:hover{
     color: #f85506;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 40px;
+    text-decoration: underline;
+    font-weight: 600;
 }

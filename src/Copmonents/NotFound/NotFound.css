@@ -1,0 +1,12 @@
+.not-found{
+    background-color: azure;
+    padding: 25px 0;
+    margin: 50px 25px;
+    border-radius: 15px;
+}
+.not-found h1 {
+    color: red;
+}
+.not-found p{
+    color: orangered;
+}

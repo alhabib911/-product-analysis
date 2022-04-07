@@ -1,10 +1,10 @@
 # Welcome to our new e-commerce website Smart Gadget
 
-This Project Live site link [Smart Gadget](https://habib-smart-gadget.netlify.app/).
+This Project Live site link of [Smart Gadget](https://habib-smart-gadget.netlify.app/).
 
 ## Project Source code 
 
-This Project Source Code link [Smart Gadget](https://github.com/programming-hero-web-course-4/product-analysis-website-alhabib911).
+This Project Source Code link of [Smart Gadget](https://github.com/programming-hero-web-course-4/product-analysis-website-alhabib911).
 
 ### Framework
 

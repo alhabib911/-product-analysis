@@ -1,6 +1,6 @@
 # Welcome to our new e-commerce website Smart Gadget
 
-This Project Live site link [Smart Gadget]().
+This Project Live site link [Smart Gadget](https://habib-smart-gadget.netlify.app/).
 
 ## Project Source code 
 

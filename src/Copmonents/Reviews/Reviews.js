@@ -11,6 +11,7 @@ const Reviews = () => {
                 <h2>Customer Review</h2>
             </div>
             <div className="review">
+                
                 {
                     review.map(review => <Review
                         review={review}
